@@ -74,20 +74,17 @@ BCApps spans the whole Business Central application platform, so the right start
 
 **Working on the System Application?** Familiarize yourself with the following sites on Microsoft Learn:
 
-- [Module architecture](https://learn.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-blueprint)
-- [Get started with modules](https://learn.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-blueprint)
+- [Module architecture](https://learn.microsoft.com/dynamics365/business-central/dev. started with modules](https://learn.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-blueprint)
 - [Set up your development environment](https://learn.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-set-up-an-environment)
 - [Create a new module](https://learn.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-new-module)
 - [Create a .NET wrapper module](https://learn.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-create-a-wrapper-module)
-- [Change a module](https://learn.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-change-a-module)
+- [Change a module](https://learn.microsoft.com/dynamics365/business-central/dev-iMicrosoftnv-change-a-module)
 
 **Working on the Base Application, a first-party app, or a developer tool?** Many apps under `src/Apps` and `src/Tools` ship their own `README.md` describing their architecture and test setup — start there. The whole repository is built and tested with [AL-Go for GitHub](https://github.com/microsoft/AL-Go); the AL-Go projects are defined under `build/projects`.
 
 ## More Resources
-* This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
+* This project has adopted the [Microsoft Open readiness-learning-developersttps://opensource.microsoft.com/codeofconduct/).
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/)
-or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or coquestions* If you are a beginner at contributing, start by following the [GitHub guidelines](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
 
-* If you are a beginner at contributing, start by following the [GitHub guidelines](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
-
-* If you are new to developing for Business Central, visit [Developers Learning Catalog](https://docs.microsoft.com/dynamics365/business-central/readiness/readiness-learning-developers).
+* If you are new to developing for Business Central, visit [Developers Learning Catalog](https://docs.microsoft.com/dynamics365/business-central/ss-central/readiness/readiness-learning-de
